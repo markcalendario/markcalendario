@@ -22,40 +22,31 @@ Hey 👋, I'm Mark Calendario
 <h4>Expertise</h4>
 
 <h5>User Interface</h5>
-<img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/REACT JS-lightblue?style=for-the-badge&logo=react&logoColor=black"/>
-&nbsp;
-<img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/SASS-cc6699?style=for-the-badge&logo=SASS&logoColor=white"/>
-&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/REACT JS-lightblue?style=for-the-badge&logo=react&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/SASS-cc6699?style=for-the-badge&logo=SASS&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=Javascript&logoColor=black"/>
 
 
 <h5>Back End</h5>
-<img src="https://img.shields.io/badge/Node.JS-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Express-333333?style=for-the-badge&logo=express&logoColor=white"/>
-&nbsp;
+<img src="https://img.shields.io/badge/Node.JS-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Express-333333?style=for-the-badge&logo=express&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/php-474A8A?style=for-the-badge&logo=php&logoColor=white"/>
 
 <h5>Database</h5>
-<img src="https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white"/>
-&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/MYSQL-F29111?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <h5>Package Managers</h5>
-<img src="https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm"/>
-&nbsp;
-<img src="https://img.shields.io/badge/YARN-blue?style=for-the-badge&logo=yarn&logoColor=white"/>
-&nbsp;
+<img src="https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm"/>&nbsp;
+<img src="https://img.shields.io/badge/YARN-blue?style=for-the-badge&logo=yarn&logoColor=white"/>&nbsp;
 
 <h5>Coding Workspace</h5>
 <img src="https://img.shields.io/badge/Windows 10-0078D7?style=for-the-badge&logo=windows"/>
 
 <h5>Website Deployment Platforms</h5>
-<img src="https://img.shields.io/badge/VPS UBUNTU-red?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/VPS UBUNTU-red?style=for-the-badge&logo=ubuntu&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/NGINX-black?style=for-the-badge&logo=nginx"/>
 
 
