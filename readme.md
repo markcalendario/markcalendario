@@ -65,7 +65,17 @@ Hey 👋, I'm Mark Calendario
 
 <div>
   <h3>My Private Projects</h3>
-    <a href="https://markcalendario.tk/view-project/6163231a0c688c4ac0d6920f">Axies Tutorial and Training Services<h4></h4></a>
+    <div>
+      ⚡&nbsp;<a href="https://markcalendario.tk/view-project/6163231a0c688c4ac0d6920f">Axies Tutorial and Training Services<h4></h4></a> <br/>
+      <a href="https://www.learningaxies.com">Click here to visit deployed site.</a>
+  </div>
+  <div>
+      ⚡&nbsp;<a href="https://markcalendario.tk/view-project/60ed32ebd275b7d18abb0436">Arellano University Student Information Management System<h4></h4></a> <br/>
+  </div>
+  <div>
+      ⚡&nbsp;<a href="https://markcalendario.tk/view-project/61017b1ccec61dab09a18ef9">Personal Portfolio<h4></h4></a> <br/>
+      <a href="https://markcalendario.tk">Click here to visit deployed site.</a>
+  </div>
 </div>
 
 <h3> My Statistics </h3>
