@@ -63,7 +63,7 @@ Hey 👋, I'm Mark Calendario
 <img src="https://img.shields.io/badge/Typescript-f5f5f5?style=for-the-badge&logo=typescript"/>
 </div>
 
-<h3> Recent Project </h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markcalendario&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+<h3> My Statistics </h3>
+<img src="https://github-readme-stats.vercel.app/api?username=markcalendario&count_private=true"/>
 
 
