@@ -64,6 +64,6 @@ Hey 👋, I'm Mark Calendario
 </div>
 
 <h3> My Statistics </h3>
-<img src="https://github-readme-stats.vercel.app/api?username=markcalendario&show_icons=true&theme=dracula&hide=contribs"/>
+<img src="https://github-readme-stats.vercel.app/api?username=markcalendario&show_icons=true&theme=dracula&count_private=true"/>
 
 
