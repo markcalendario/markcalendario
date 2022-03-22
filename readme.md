@@ -65,5 +65,7 @@ Hey 👋, I'm Mark Calendario
 
 <h3> My Statistics </h3>
 <img src="https://github-readme-stats.vercel.app/api?username=markcalendario&show_icons=true&theme=dracula&count_private=true"/>
-<img src="https://markcalendario.tk/static/media/web-design.ade9d5b3.gif"/>
+
+<h3> Visit my Portfolio here </h3>
+<a href="https://markcalendario.tk/"><img src="https://img.shields.io/badge/Visit my Portfolio-333333?style=for-the-badge&logo=&logoColor=white"></a>
 
