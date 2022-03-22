@@ -7,17 +7,17 @@ Hey 👋, I'm Mark Calendario
   Social Media
 </h3>
 
-<a href="https://www.facebook.com/markcalendario"><img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"/>&nbsp;
-<a href="https://www.github.com/markcalendario"><img src="https://img.shields.io/badge/Github-f5f5f5?style=for-the-badge&logo=Github&logoColor=black"/>&nbsp;
-<a href="https://markcalendario.tk/"><img src="https://img.shields.io/badge/Visit my Portfolio-333333?style=for-the-badge&logo=&logoColor=white"/>
+<a href="https://www.facebook.com/markcalendario"><img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"></a>&nbsp;
+<a href="https://www.github.com/markcalendario"><img src="https://img.shields.io/badge/Github-f5f5f5?style=for-the-badge&logo=Github&logoColor=black"></a>&nbsp;
+<a href="https://markcalendario.tk/"><img src="https://img.shields.io/badge/Visit my Portfolio-333333?style=for-the-badge&logo=&logoColor=white"></a>
 
 <h3>About Me</h3>
 
-<p>🏫 - I'm a Computer Science student at Polytechnic University of the Philippines, Manila.</p>
+<p><img src="https://logoeazy.com/wp-content/uploads/2021/01/polytechnic-university-of-the-philippines-logo-1024x1024.png" width="20px"/> - I'm a Computer Science student at Polytechnic University of the Philippines, Manila.</p>
 <p>👨‍💻 -  I'm currently building web applications using MERN Stack. </p>
 <p>🌱 -  I want to become a  full stack web developer.</p>
 
-<h4>Expertise</h4>
+<h3>Expertise</h3>
 
 <div>
 <h5>User Interface</h5>
@@ -62,4 +62,8 @@ Hey 👋, I'm Mark Calendario
 <h5>Currently Learning</h5>
 <img src="https://img.shields.io/badge/Typescript-f5f5f5?style=for-the-badge&logo=typescript"/>
 </div>
+
+<h3> Recent Project </h3>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
