@@ -65,6 +65,19 @@ Hey 👋, I'm Mark Calendario
       ⚡&nbsp;<a href="https://markcalendario.tk/view-project/61017b1ccec61dab09a18ef9">Personal Portfolio<h4></h4></a>
 </div>
 
+```Javascript
+  life install hope determination
+
+➞ Loading...
+██████████████ 100%
+
+➞ You have installed hope and determination in your life. Continuing progress...
+
+██████████████ 100%
+
+➞ Success! You made it into your goals!█
+```
+
 <h3> My Statistics </h3>
 
 [![Mark's github stats](https://github-readme-stats.vercel.app/api?username=markcalendario&theme=dark&count_private=true)](https://github.com/markcalendario/)
