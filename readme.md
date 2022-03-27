@@ -72,8 +72,10 @@ if(me.isSuffering())
 else 
   me.suffer();
   
-  //Explanation <br/>
-  // When I am suffering or going through a difficult time in my life, it motivates me to seek out new and interesting things to learn about. As a result, I want to suffer even more.
+  // Explanation
+  // When I am suffering or going through a difficult time in my life, 
+  // it motivates me to seek out new and interesting things to learn about. 
+  // As a result, I want to suffer even more.
 ```
 
 
