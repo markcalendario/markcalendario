@@ -65,14 +65,16 @@ Hey 👋, I'm Mark Calendario
       ⚡&nbsp;<a href="https://markcalendario.tk/view-project/61017b1ccec61dab09a18ef9">Personal Portfolio<h4></h4></a>
 </div>
 
+
 ```javascript
 if(me.isSuffering()) 
   stayMotivated();
 else 
   me.suffer();
 ```
-### Explanation
+Explanation
 When I am suffering or going through a difficult time in my life, it motivates me to seek out new and interesting things to learn about. As a result, I want to suffer even more.
+
 
 <h3> My Statistics </h3>
 
