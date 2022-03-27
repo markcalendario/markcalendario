@@ -59,11 +59,6 @@ Hey 👋, I'm Mark Calendario
 </div>
 
 <div>
-<h5>Currently Learning</h5>
-<img src="https://img.shields.io/badge/Typescript-f5f5f5?style=for-the-badge&logo=typescript"/>
-</div>
-
-<div>
   <h3> <img src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-21.gif" width="40px"> My Private Projects <img src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-21.gif" width="40px"></h3>
       ⚡&nbsp;<a href="https://markcalendario.tk/view-project/6163231a0c688c4ac0d6920f">Axies Tutorial and Training Services<h4></h4></a>
       ⚡&nbsp;<a href="https://markcalendario.tk/view-project/60ed32ebd275b7d18abb0436">Arellano University Student Information Management System<h4></h4></a>
