@@ -65,7 +65,7 @@ Hey 👋, I'm Mark Calendario
       ⚡&nbsp;<a href="https://markcalendario.tk/view-project/61017b1ccec61dab09a18ef9">Personal Portfolio<h4></h4></a>
 </div>
 
-```Javascript
+```console
   life install hope determination
 
 ➞ Loading...
