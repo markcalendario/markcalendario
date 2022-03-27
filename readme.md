@@ -71,9 +71,10 @@ Hey 👋, I'm Mark Calendario
 </div>
 
 <h3> My Statistics </h3>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=markcalendario)](https://github.com/markcalendario/)
+
 <img src="https://github-readme-stats.vercel.app/api?username=markcalendario&show_icons=true&theme=dark&count_private=true"/>
 
 <h3> Visit my Portfolio here </h3>
 <a href="https://markcalendario.tk/"><img src="https://img.shields.io/badge/Visit my Portfolio-333333?style=for-the-badge&logo=&logoColor=white"></a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
