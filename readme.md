@@ -72,10 +72,8 @@ Hey 👋, I'm Mark Calendario
 
 <h3> My Statistics </h3>
 
-[![Mark's github stats](https://github-readme-stats.vercel.app/api?username=markcalendario)](https://github.com/markcalendario/markcalendario)
+[![Mark's github stats](https://github-readme-stats.vercel.app/api?username=markcalendario&theme=dark&count_private=true)](https://github.com/markcalendario/)
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=markcalendario&show_icons=true&theme=dark&count_private=true"/>
 
 <h3> Visit my Portfolio here </h3>
 <a href="https://markcalendario.tk/"><img src="https://img.shields.io/badge/Visit my Portfolio-333333?style=for-the-badge&logo=&logoColor=white"></a>
