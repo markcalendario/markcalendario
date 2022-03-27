@@ -72,7 +72,7 @@ Hey 👋, I'm Mark Calendario
 
 <h3> My Statistics </h3>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Mark's github stats](https://github-readme-stats.vercel.app/api?username=markcalendario)](https://github.com/markcalendario/markcalendario)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=markcalendario&show_icons=true&theme=dark&count_private=true"/>
