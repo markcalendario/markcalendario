@@ -14,7 +14,7 @@ Hey 👋, I'm Mark Calendario
 <h3>About Me</h3>
 
 <p><img src="https://logoeazy.com/wp-content/uploads/2021/01/polytechnic-university-of-the-philippines-logo-1024x1024.png" width="20px"/> - I'm a Computer Science student at Polytechnic University of the Philippines, Manila.</p>
-<p>👨‍💻 -  I'm currently building web applications using MERN Stack. </p>
+<p>👨‍💻 -  I'm building web applications using MERN Stack. </p>
 <p>🌱 -  I want to become a  full stack web developer.</p>
 
 <h3>Expertise</h3>
