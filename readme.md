@@ -66,20 +66,6 @@ Hey 👋, I'm Mark Calendario
 </div>
 
 
-```javascript
-if(me.isSuffering()) 
-  stayMotivated();
-else 
-  me.suffer();
-  
-  // Explanation
-  // When I am suffering or going through a difficult time in my life, 
-  // it motivates me to seek out new and interesting things to learn about. 
-  // As a result, I want to suffer even more. 😆
-```
-
-
-
 <h3> My Statistics </h3>
 
 [![Mark's github stats](https://github-readme-stats.vercel.app/api?username=markcalendario&theme=dark&count_private=true)](https://github.com/markcalendario/)
