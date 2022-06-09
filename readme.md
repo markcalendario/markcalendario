@@ -1,7 +1,6 @@
 <h2>
 Hey 👋, I'm Mark Calendario
-[[https://i.pinimg.com/originals/2d/55/0e/2d550e48e5fabf33543b51e4d8ccb335.gif|width=400px]]
-
+<img src="https://i.pinimg.com/originals/2d/55/0e/2d550e48e5fabf33543b51e4d8ccb335.gif" width="20"/>
 </h2>
 
 <h3>
