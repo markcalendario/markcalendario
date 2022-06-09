@@ -1,6 +1,6 @@
 <h2>
 Hey 👋, I'm Mark Calendario
-<img src="https://i.pinimg.com/originals/2d/55/0e/2d550e48e5fabf33543b51e4d8ccb335.gif" width="20"/>
+<img src="https://i.pinimg.com/originals/2d/55/0e/2d550e48e5fabf33543b51e4d8ccb335.gif" width="40"/>
 </h2>
 
 <h3>
@@ -59,7 +59,7 @@ Hey 👋, I'm Mark Calendario
 </div>
 
 <div>
-  <h3> <img src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-21.gif" width="40px"> My Private Projects <img src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-21.gif" width="40px"></h3>
+  <h3> <img src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-21.gif" width="40"> My Private Projects <img src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-21.gif" width="40"></h3>
       ⚡&nbsp;<a href="https://markcalendario.tk/view-project/6163231a0c688c4ac0d6920f">Axies Tutorial and Training Services<h4></h4></a>
       ⚡&nbsp;<a href="https://markcalendario.tk/view-project/60ed32ebd275b7d18abb0436">Arellano University Student Information Management System<h4></h4></a>
       ⚡&nbsp;<a href="https://markcalendario.tk/view-project/61017b1ccec61dab09a18ef9">Personal Portfolio<h4></h4></a>
