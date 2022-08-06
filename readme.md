@@ -73,7 +73,7 @@ Hey 👋, I'm Mark Calendario
 
 <h3> My Statistics </h3>
 
-[![Mark's github stats](https://github-readme-stats.vercel.app/api?username=markcalendario&theme=dark&count_private=true)](https://github.com/markcalendario/)
+[![Mark's github stats](https://github-readme-stats.vercel.app/api?username=markcalendario&theme=synthwave&count_private=true)](https://github.com/markcalendario/)
 
 
 <h3> Visit my Portfolio here </h3>
