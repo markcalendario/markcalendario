@@ -44,7 +44,6 @@ Hey 👋, I'm Mark Calendario
 <div>
 <h5>Package Managers</h5>
 <img src="https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm"/>&nbsp;
-<img src="https://img.shields.io/badge/YARN-blue?style=for-the-badge&logo=yarn&logoColor=white"/>&nbsp;
 </div>
 
 <div>
