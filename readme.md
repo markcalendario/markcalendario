@@ -9,7 +9,7 @@ Hey 👋, I'm Mark Calendario
 
 <a href="https://www.facebook.com/markcalendario"><img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"></a>&nbsp;
 <a href="https://www.github.com/markcalendario"><img src="https://img.shields.io/badge/Github-f5f5f5?style=for-the-badge&logo=Github&logoColor=black"></a>&nbsp;
-<a href="https://markcalendario.tk/"><img src="https://img.shields.io/badge/Visit my Portfolio-333333?style=for-the-badge&logo=&logoColor=white"></a>
+<a href="https://markkennethcalendario.web.app/"><img src="https://img.shields.io/badge/Visit my Portfolio-333333?style=for-the-badge&logo=&logoColor=white"></a>
 
 <h3>About Me</h3>
 
@@ -56,13 +56,6 @@ Hey 👋, I'm Mark Calendario
 <h5>Website Deployment Platforms</h5>
 <img src="https://img.shields.io/badge/VPS UBUNTU-red?style=for-the-badge&logo=ubuntu&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/NGINX-black?style=for-the-badge&logo=nginx"/>
-</div>
-
-<div>
-  <h3> <img src="https://i0.wp.com/kalexmat.com/wp-content/uploads/2021/04/Privacy-Policy.gif" width="40"> My Private Projects <img src="https://i0.wp.com/kalexmat.com/wp-content/uploads/2021/04/Privacy-Policy.gif" width="40"></h3>
-      ⚡&nbsp;<a href="https://markcalendario.tk/view-project/6163231a0c688c4ac0d6920f">Axies Tutorial and Training Services<h4></h4></a>
-      ⚡&nbsp;<a href="https://markcalendario.tk/view-project/60ed32ebd275b7d18abb0436">Arellano University Student Information Management System<h4></h4></a>
-      ⚡&nbsp;<a href="https://markcalendario.tk/view-project/61017b1ccec61dab09a18ef9">Personal Portfolio<h4></h4></a>
 </div>
 
 <div>
