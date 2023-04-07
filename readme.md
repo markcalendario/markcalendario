@@ -74,3 +74,7 @@ Hey 👋, I'm Mark Calendario
 
 <h3> Visit my Portfolio here </h3>
 <a href="https://markkennethcalendario.web.app/"><img src="https://img.shields.io/badge/Visit my Portfolio-333333?style=for-the-badge&logo=&logoColor=white"></a>
+
+<a href="https://www.buymeacoffee.com/markcalendario" target="_blank"><img src="https://markkennethcalendario.web.app/images/miscellaneous/buy-me-a-coffee.png" width="100"></a>
+
+
