@@ -7,18 +7,19 @@ Hey 👋, I'm Mark Calendario
 </h2>
 
 <h3>
-  Social Media
+  Get in touch with me
 </h3>
 
 <a href="https://www.facebook.com/markcalendario"><img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"></a>&nbsp;
 <a href="https://www.github.com/markcalendario"><img src="https://img.shields.io/badge/Github-f5f5f5?style=for-the-badge&logo=Github&logoColor=black"></a>&nbsp;
-<a href="https://markkennethcalendario.web.app/"><img src="https://img.shields.io/badge/Visit my Portfolio-333333?style=for-the-badge&logo=&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/mark-kenneth-calendario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+<a href="https://markkennethcalendario.web.app"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=&logoColor=white"></a>
 
 <h3>About Me</h3>
 
 <p><img src="https://www.pup.edu.ph/about/images/PUPLogo.png" width="20px"/> - I'm a Computer Science student at Polytechnic University of the Philippines, Manila.</p>
-<p>👨‍💻 -  I'm building web applications using MERN Stack. </p>
-<p>🌱 -  I want to become a  full stack web developer.</p>
+<p>👨‍💻 -  I'm a freelance developer.</p>
+<p>🌱 -  I'm a full-stack developer.</p>
 
 <h3>Expertise</h3>
 
