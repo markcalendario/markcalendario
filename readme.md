@@ -1,81 +1,83 @@
+<h1>Hey 👋, I'm Mark Calendario</h2>
+
 [![committers.top badge](https://user-badge.committers.top/philippines/markcalendario.svg)](https://user-badge.committers.top/philippines/markcalendario)
 
-
-<h2>
-Hey 👋, I'm Mark Calendario
-<img src="https://i.pinimg.com/originals/2d/55/0e/2d550e48e5fabf33543b51e4d8ccb335.gif" width="40"/>
-</h2>
-
-<h3>
-  Get in touch with me
-</h3>
-
-<a href="https://www.facebook.com/markcalendario"><img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"></a>&nbsp;
-<a href="https://www.github.com/markcalendario"><img src="https://img.shields.io/badge/Github-f5f5f5?style=for-the-badge&logo=Github&logoColor=black"></a>&nbsp;
-<a href="https://www.linkedin.com/in/mark-kenneth-calendario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
-<a href="https://markkennethcalendario.web.app"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=&logoColor=white"></a>
-
-<h3>About Me</h3>
-
-<p><img src="https://www.pup.edu.ph/about/images/PUPLogo.png" width="20px"/> - I'm a Computer Science student at Polytechnic University of the Philippines, Manila.</p>
-<p>👨‍💻 -  I'm a freelance developer.</p>
-<p>🌱 -  I'm a full-stack developer.</p>
-
-<h3>Expertise</h3>
-
 <div>
-<h5>User Interface</h5>
-<img src="https://img.shields.io/badge/NEXT.JS-333333?style=for-the-badge&logo=next.js&logoColor=white"/>&nbsp;
-<img src="https://shields.io/badge/react-blue?logo=react&logoColor=white&style=for-the-badge"/>&nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/SASS-cc6699?style=for-the-badge&logo=SASS&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=Javascript&logoColor=black"/>
+  <h2>Get in touch with me</h2>
+  <a href="https://markkennethcalendario.web.app"><img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge"></a>
+  <a href="https://www.facebook.com/markcalendario"><img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"></a>&nbsp;
+  <a href="https://www.github.com/markcalendario"><img src="https://img.shields.io/badge/Github-f5f5f5?style=for-the-badge&logo=Github&logoColor=black"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/mark-kenneth-calendario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
 </div>
 
 <div>
-<h5>Back End</h5>
-<img src="https://img.shields.io/badge/Node.JS-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Express-333333?style=for-the-badge&logo=express&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/php-474A8A?style=for-the-badge&logo=php&logoColor=white"/>
+  <h2>About Me</h2>
+  <p><img src="https://www.pup.edu.ph/about/images/PUPLogo.png" width="20px"/> - Computer Science student at Polytechnic University of the Philippines, Manila.</p>
+  <p>👨‍💻 -  Freelance developer.</p>
+  <p>🌱 -  Full-stack web application developer.</p>
 </div>
 
 <div>
-<h5>Database</h5>
-<img src="https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/MYSQL-F29111?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <h2>Expertise</h2>
+  <div>
+    <h3>Front End</h3>
+    <img src="https://img.shields.io/badge/NEXT.JS-333333?style=for-the-badge&logo=next.js&logoColor=white"/>&nbsp;
+    <img src="https://shields.io/badge/react-blue?logo=react&logoColor=white&style=for-the-badge"/>&nbsp;
+    <img src="https://img.shields.io/badge/SASS-cc6699?style=for-the-badge&logo=SASS&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Javascript-f0ab4f?style=for-the-badge&logo=Javascript&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
+  </div>
+
+  <div>
+    <h3>Back End</h3>
+    <img src="https://img.shields.io/badge/Node.JS-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Express-333333?style=for-the-badge&logo=express&logoColor=white"/>&nbsp;
+  </div>
+
+  <div>
+    <h3>Database</h3>
+    <img src="https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/MYSQL-F29111?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
+  </div>
+
+  <h2>Other technologies I'm using.</h2>
+  <div>
+    <img src="https://img.shields.io/badge/NGINX-009037?style=for-the-badge&logo=nginx&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/NPM-C60001?style=for-the-badge&logo=npm&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/GitHub-202124?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Postman-ef5b25?style=for-the-badge&logo=Postman&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/PM2-7F00FF?style=for-the-badge&logo=pm2&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Electron-B2E0E8?style=for-the-badge&logo=Electron&logoColor=black"/>&nbsp;
+    <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/VPS Ubuntu-red?style=for-the-badge&logo=ubuntu&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>&nbsp;
+  </div>
 </div>
 
 <div>
-<h5>Package Managers</h5>
-<img src="https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm"/>&nbsp;
+  <h2>View My Projects</h2>
+  <h3> 
+    <img src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-21.gif" width="40"> <a href="markkennethcalendario.web.app#projects">All Projects</a>
+  </h3>
+  <h3> 
+    <img src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-21.gif" width="40"> <a href="https://github.com/markcalendario?tab=repositories">Open Source Projects</a>
+  </h3>
 </div>
 
 <div>
-<h5>Coding Workspace</h5>
-<img src="https://img.shields.io/badge/Windows 10-0078D7?style=for-the-badge&logo=windows"/>
+  <h3> My Statistics </h3>
+
+  [![Mark's github stats](https://github-readme-stats.vercel.app/api?username=markcalendario&theme=github_dark_dimmed&count_private=true)](https://github.com/markcalendario/)
 </div>
 
 <div>
-<h5>Website Deployment Platforms</h5>
-<img src="https://img.shields.io/badge/VPS UBUNTU-red?style=for-the-badge&logo=ubuntu&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/NGINX-black?style=for-the-badge&logo=nginx"/>
+  <h2>Reach me thru</h2>
+  <a href="https://markkennethcalendario.web.app"><img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge"></a>
+  <a href="https://www.facebook.com/markcalendario"><img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"></a>&nbsp;
+  <a href="https://www.github.com/markcalendario"><img src="https://img.shields.io/badge/Github-f5f5f5?style=for-the-badge&logo=Github&logoColor=black"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/mark-kenneth-calendario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
 </div>
-
-<div>
-  <h3> <img src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-21.gif" width="40"> <a href="https://github.com/markcalendario/">View My Open Source Projects</a>
-  <img src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-21.gif" width="40"></h3>
-</div>
-
-
-<h3> My Statistics </h3>
-
-[![Mark's github stats](https://github-readme-stats.vercel.app/api?username=markcalendario&theme=synthwave&count_private=true)](https://github.com/markcalendario/)
-
-
-<h3> Visit my Portfolio here </h3>
-<a href="https://markkennethcalendario.web.app/"><img src="https://img.shields.io/badge/Visit my Portfolio-333333?style=for-the-badge&logo=&logoColor=white"></a>
-
-<a href="https://www.buymeacoffee.com/markcalendario" target="_blank"><img src="https://markkennethcalendario.web.app/images/miscellaneous/buy-me-a-coffee.png" width="250"></a>
 
 
