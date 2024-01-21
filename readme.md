@@ -59,7 +59,7 @@
 <div>
   <h2>View My Projects</h2>
   <h3> 
-    <img src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-21.gif" width="40"> <a href="markkennethcalendario.web.app#projects">All Projects</a>
+    <img src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-21.gif" width="40"> <a href="https://markkennethcalendario.web.app#projects">All Projects</a>
   </h3>
   <h3> 
     <img src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-21.gif" width="40"> <a href="https://github.com/markcalendario?tab=repositories">Open Source Projects</a>
