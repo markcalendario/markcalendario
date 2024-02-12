@@ -43,7 +43,7 @@
 
   <h2>Other technologies I'm using.</h2>
   <div>
-    <img src="https://img.shields.io/badge/Vite-9566FE?style=for-the-badge&logo=vite&logoColor=FFDD39"/>&nbsp;
+    <img src="https://img.shields.io/badge/Vite-9566FE?style=for-the-badge&logo=vite&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/NGINX-009037?style=for-the-badge&logo=nginx&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/NPM-C60001?style=for-the-badge&logo=npm&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
