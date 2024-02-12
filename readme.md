@@ -70,7 +70,7 @@
 <div>
   <h2> My Statistics </h2>
 
-  [![Mark's github stats](https://github-readme-stats.vercel.app/api?username=markcalendario&theme=github_dark_dimmed&count_private=true)](https://github.com/markcalendario/)
+  [![Mark's github stats](https://github-readme-stats.vercel.app/api?username=markcalendario&theme=github_dark_dimmed&count_private=true&disable_animations=true)](https://github.com/markcalendario/)
 </div>
 
 <div>
