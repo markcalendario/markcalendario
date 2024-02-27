@@ -26,7 +26,7 @@
 
   <h2>Other technologies I'm using.</h2>
   <div>
-    <img src="https://skillicons.dev/icons?i=vite,nginx,npm,git,github,postman,electron,vscode,ubuntu,windows"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=nginx,npm,git,github,postman,electron,vscode,ubuntu,windows"/>&nbsp;
   </div>
 </div>
 
