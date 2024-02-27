@@ -21,6 +21,7 @@
   <h2>Expertise</h2>
   <div>
     <h3>Front End</h3>
+    
     [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   </div>
 
