@@ -25,6 +25,11 @@
     <h3>Development and Deployment Technologies</h3>
     <img src="https://skillicons.dev/icons?i=nginx,npm,git,github,postman,electron,vscode,ubuntu,windows"/>
   </div>
+
+  <h2>Other Technologies I Used</h2>
+  <div>
+    <img src="https://skillicons.dev/icons?i=next,mongodb,php,py,cs" />
+  </div>
 </div>
 
 <div>
