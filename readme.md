@@ -21,22 +21,22 @@
   <h2>Expertise</h2>
   <div>
     <h3>Front End</h3>
-    <img src="https://skillicons.dev/icons?i=vite,react,sass,javascript,html,css&perline=6" />
+    <img src="https://skillicons.dev/icons?i=vite,react,sass,javascript,html,css" />
   </div>
 
   <div>
     <h3>Back End</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,express&perline=6"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express"/>
   </div>
 
   <div>
     <h3>Database</h3>
-    <img src="https://skillicons.dev/icons?i=mysql&perline=6"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=mysql"/>&nbsp;
   </div>
 
   <h2>Other technologies I'm using.</h2>
   <div>
-    <img src="https://skillicons.dev/icons?i=vite,nginx,npm,git,github,postman,electron,vscode,ubuntu,windows&perline=6"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=vite,nginx,npm,git,github,postman,electron,vscode,ubuntu,windows"/>&nbsp;
   </div>
 </div>
 
