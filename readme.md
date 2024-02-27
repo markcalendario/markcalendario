@@ -20,18 +20,8 @@
 <div>
   <h2>Expertise</h2>
   <div>
-    <h3>Front End</h3>
-    <img src="https://skillicons.dev/icons?i=vite,react,sass,javascript,html,css" />
-  </div>
-
-  <div>
-    <h3>Back End</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,express"/>
-  </div>
-
-  <div>
-    <h3>Database</h3>
-    <img src="https://skillicons.dev/icons?i=mysql"/>&nbsp;
+    <h3>Current Stack</h3>
+    <img src="https://skillicons.dev/icons?i=vite,react,sass,nodejs,express,mysql,javascript,html,css" />
   </div>
 
   <h2>Other technologies I'm using.</h2>
