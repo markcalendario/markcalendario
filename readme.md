@@ -21,34 +21,22 @@
   <h2>Expertise</h2>
   <div>
     <h3>Front End</h3>
-    <img src="https://skillicons.dev/icons?i=vite,react,sass,javascript,html,css&perline=3" />
+    <img src="https://skillicons.dev/icons?i=vite,react,sass,javascript,html,css&perline=6" />
   </div>
 
   <div>
     <h3>Back End</h3>
-    <img src="https://img.shields.io/badge/Node.JS-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Express-333333?style=for-the-badge&logo=express&logoColor=white"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=nodejs,express&perline=6"/>
   </div>
 
   <div>
     <h3>Database</h3>
-    <img src="https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/MYSQL-F29111?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=mysql&perline=6"/>&nbsp;
   </div>
 
   <h2>Other technologies I'm using.</h2>
   <div>
-    <img src="https://img.shields.io/badge/Vite-9566FE?style=for-the-badge&logo=vite&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/NGINX-009037?style=for-the-badge&logo=nginx&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/NPM-C60001?style=for-the-badge&logo=npm&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/GitHub-202124?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Postman-ef5b25?style=for-the-badge&logo=Postman&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/PM2-7F00FF?style=for-the-badge&logo=pm2&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Electron-B2E0E8?style=for-the-badge&logo=Electron&logoColor=black"/>&nbsp;
-    <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/VPS Ubuntu-red?style=for-the-badge&logo=ubuntu&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=vite,nginx,npm,git,github,postman,electron,vscode,ubuntu,windows&perline=6"/>&nbsp;
   </div>
 </div>
 
