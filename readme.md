@@ -22,11 +22,9 @@
   <div>
     <h3>Current Stack</h3>
     <img src="https://skillicons.dev/icons?i=vite,react,sass,nodejs,express,mysql,javascript,html,css" />
-  </div>
 
-  <h2>Other technologies I'm using.</h2>
-  <div>
-    <img src="https://skillicons.dev/icons?i=nginx,npm,git,github,postman,electron,vscode,ubuntu,windows"/>&nbsp;
+    <h3>Development and Deployment Technologies</h3>
+    <img src="https://skillicons.dev/icons?i=nginx,npm,git,github,postman,electron,vscode,ubuntu,windows"/>
   </div>
 </div>
 
