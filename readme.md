@@ -21,12 +21,7 @@
   <h2>Expertise</h2>
   <div>
     <h3>Front End</h3>
-    <img src="https://img.shields.io/badge/NEXT.JS-333333?style=for-the-badge&logo=next.js&logoColor=white"/>&nbsp;
-    <img src="https://shields.io/badge/react-blue?logo=react&logoColor=white&style=for-the-badge"/>&nbsp;
-    <img src="https://img.shields.io/badge/SASS-cc6699?style=for-the-badge&logo=SASS&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Javascript-f0ab4f?style=for-the-badge&logo=Javascript&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
+    [![My Skills](https://skillicons.dev/icons?i=vite,react,sass,javascript,html,css&perline=3)](https://markcalendario.web.app)
   </div>
 
   <div>
