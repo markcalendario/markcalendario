@@ -48,7 +48,7 @@
 
   [![Mark's github stats](https://github-readme-stats.vercel.app/api?username=markcalendario&theme=github_dark_dimmed&count_private=true&disable_animations=true)](https://github.com/markcalendario/)
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=markcalendario)](https://markcalendario.web.app)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=markcalendario&theme=dark)](https://markcalendario.web.app)
 </div>
 
 <div>
